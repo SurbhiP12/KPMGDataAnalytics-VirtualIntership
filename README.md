@@ -1,4 +1,3 @@
-# KPMGDataAnalytics-VirtualIntership
 
 # Forage KPMG Data Analytics Virtual Internship
 
